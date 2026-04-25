@@ -54,7 +54,7 @@ Focus areas include:
 - Multi‑device ecosystem  
 
 🔗 Repository:  
-https://github.com/HT-محمد/Microsoft-Life-OS-Vision-by-Mohammed
+https://github.com/Mohammed-HT/Microsoft-Life-OS-Vision-by-Mohammed
 
 ---
 
